@@ -1,4 +1,4 @@
-"""Advent of Code 2024 - Day 2"""
+"""Advent of Code 2024 - Day 2 - Part 1"""
 
 def read_reports(path: str) -> list[list[int]]:
     with open(path, encoding="utf-8") as file:
